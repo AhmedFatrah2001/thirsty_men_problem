@@ -1,0 +1,1 @@
+The guests should adopt a rotational system where, in each round, the first and last positions are assigned to different guests, rotating clockwise until all guests have had a chance to drink. This ensures fairness and avoids deadlock. solution
